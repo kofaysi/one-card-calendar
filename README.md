@@ -7,6 +7,7 @@ This project provides a compact, one-page calendar for the entire year of 2025. 
 - **Single View Layout**: All months are displayed on a single card, making it easy to see the entire year at a glance.
 - **Dynamic Date Calculation**: Utilizes Excel formulas to accurately display the correct dates and corresponding days of the week for each month.
 - **Highlighting Weekends**: Weekends are formatted differently for easy visibility.
+- **Optimized Print Area**: The calendar layout is specifically optimized for printing on a 63.5mm x 88mm poker size card, making it portable and convenient for physical use.
 
 ## Formulas Used
 - **Dynamic Date Array Formula**:
